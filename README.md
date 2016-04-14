@@ -18,7 +18,7 @@ Open the solution in Visual Studio and select F5 to run the sample. An instance 
 
 ## Questions and comments
 
-We'd love to get your feedback about the Document assembly Word add-in sample. You can send your questions and suggestions to us in the [Issues](https://github.com/OfficeDev/Word-Add-in-JS-Watermark/issues) section of this repository.
+We'd love to get your feedback about the Watermark Word add-in sample. You can send your questions and suggestions to us in the [Issues](https://github.com/OfficeDev/Word-Add-in-JS-Watermark/issues) section of this repository.
 
 Questions about add-in development in general should be posted to [Stack Overflow](http://stackoverflow.com/questions/tagged/Office365+API). Make sure that your questions or comments are tagged with [office-js], [word], and [API].
 
