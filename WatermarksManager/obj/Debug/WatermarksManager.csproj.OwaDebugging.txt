@@ -1,0 +1,7 @@
+False
+8eac6763-b0a4-49a0-b076-2edf6cf521f612b6ccc2-dd8e-491c-8888-a60a4c2741a7
+{09f37d0d-6a7c-42c8-8d73-9e2fd1108450}{c88fc442-f5da-4d14-97e4-92e62c3604f0}
+{adc12ad0-23a1-449a-9607-286dd2b5d614}
+1.0.0.0
+WatermarksManager
+_layouts/15/

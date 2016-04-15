@@ -1,0 +1,25 @@
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\csc.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\vbc.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\csc.exe
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\vbc.exe
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\juanbl\Desktop\git\Word-Add-in-JS-Watermark\WatermarksManager\obj\Debug\WatermarksManager.csprojResolveAssemblyReference.cache
