@@ -1,2 +1,0 @@
-bin\Debug\OfficeAppManifests\WatermarksManagerManifest.xml
-c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManager\bin\Debug\WatermarksManager.debugapp
