@@ -1,0 +1,40 @@
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\csc.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\vbc.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\WatermarksManagerWeb.dll.config
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\WatermarksManagerWeb.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\WatermarksManagerWeb.pdb
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.csprojResolveAssemblyReference.cache
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.dll
+c:\users\juanbl\documents\visual studio 2015\Projects\WatermarksManager\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.pdb
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\csc.exe
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\vbc.exe
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\WatermarksManagerWeb.dll.config
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\WatermarksManagerWeb.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\WatermarksManagerWeb.pdb
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.csprojResolveAssemblyReference.cache
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.dll
+C:\Users\juanbl\Desktop\watermarkgithub\WaterMarkSample\WatermarksManagerWeb\obj\Debug\WatermarksManagerWeb.pdb
