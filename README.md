@@ -26,9 +26,9 @@ Questions about add-in development in general should be posted to [Stack Overflo
 
 Here are more resources to help you create Word Javascript API based add-ins:
 
-* [Office Add-ins platform overview](https://msdn.microsoft.com/EN-US/library/office/jj220082.aspx)
-* [Word add-ins](https://github.com/OfficeDev/office-js-docs/blob/master/word/word-add-ins.md)
-* [Word add-ins programming overview](https://github.com/OfficeDev/office-js-docs/blob/master/word/word-add-ins-programming-guide.md)
+* [Office Add-ins platform overview](http://dev.office.com/docs/add-ins/overview/office-add-ins?product=word)
+* [Word add-ins](http://dev.office.com/docs/add-ins/word/word-add-ins-programming-overview?product=word)
+* [Word add-ins programming overview](http://dev.office.com/reference/add-ins/word/word-add-ins-reference-overview?product=word)
 * [Snippet Explorer for Word](http://officesnippetexplorer.azurewebsites.net/#/snippets/word)
 * [Word add-ins JavaScript API Reference](https://github.com/OfficeDev/office-js-docs/tree/master/word/word-add-ins-javascript-reference)
 * [Silly stories Word add-in sample](https://github.com/OfficeDev/Word-Add-in-SillyStories)
