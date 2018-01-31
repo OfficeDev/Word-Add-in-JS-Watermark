@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: 'Word add-in: Add or remove a watermark'
+  path: ''
+  description: Learn how to insert a watermark into a Word document with the text you need, and also remove it.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-ins
+  azureDeploy: ''
+  author: davidchesnut
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Word
+    scenarios: []
