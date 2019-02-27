@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Word
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/12/2016 12:43:11 PM
+---
 # Word-Add-in-JS-Watermark
 
 This Word add-in will show you how to:
